@@ -1,2 +1,2 @@
 # Contact_Manager_Project
-In Contact Manager project, the user will add, edit, view, search and delete contact. Also, the contact file is stored in .json file.
+In Contact Manager Project, the user will add, edit, view, search and delete contact.<br>Also, the contact file is stored in .json file. 
